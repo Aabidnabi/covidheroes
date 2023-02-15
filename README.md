@@ -16,7 +16,7 @@ Primary Azure Technology*:  Static Web Apps,
 
 Other Azure Technologies: App Service
 
-Link for the website:https://icy-sand-069356f10.1.azurestaticapps.net/
+Link for the website:https://covid19heroes.netlify.app/
 
 ![Corona](2.jpeg)
 
